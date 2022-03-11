@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **vishalbg.mz@gmail.com**
 
-- ⚡ Fun fact **Nothing**
-
 <br />
 
 <h3 align="left">Languages and Tools:- </h3>

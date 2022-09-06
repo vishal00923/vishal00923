@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal00923&theme=dracula" alt="vishal00923" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal00923&theme=dracula" alt="Vishal" /></a> </p>
 
 <br />
 
@@ -28,7 +28,7 @@
 
 <br />
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal00923&show_icons=true&theme=dracula&count_private=true) &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal00923&show_icons=true&locale=en&layout=compact&theme=dracula" alt="vishal00923" align="center" />
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal00923&show_icons=true&theme=dracula&count_private=true) &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal00923&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Vishal" align="center" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal00923&theme=dracula" alt="vishal00923" /></p>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 
-<h2>Frontend Developer</h2>
+<h2>Front-End Developer</h2>
 
 <br />
 
@@ -10,7 +10,7 @@
 
 <h3> About Me </h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **TypeScript**
 - 👯 I’m looking to collaborate on **React.js**
 - 👨‍💻 All of my repos are available at [https://github.com/vishal00923?tab=repositories]
 - 📫 How to reach me **vishalbg.mz@gmail.com**
